@@ -3,7 +3,7 @@ from app import create_app
 
 app = create_app() #Guarda la instancia como variable
 
-#Verifica si se jecuta directamente
+#Verifica si se ejecuta directamente
 if __name__ == '__main__': 
     app.run(debug=True)
     #Inicia el servidor permitiendo acceder en el navegador
