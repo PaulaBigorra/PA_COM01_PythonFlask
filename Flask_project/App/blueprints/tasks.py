@@ -1,4 +1,4 @@
-from flask import Blueprint, jsonify, request#Blueprint:Separa rutas en archivos, jsonify:convierte datos a formato JSON, request:permite acceder a los datos
+from flask import Blueprint, jsonify, request #Blueprint:Separa rutas en archivos, jsonify:convierte datos a formato JSON, request:permite acceder a los datos
 from app.models import Tarea #Del modulo models importa la clase Tarea
 
 tasks_bp = Blueprint('tasks', __name__) #Crea un Blueprint llamado 'tasks', que agrupa todas las rutas relacionadas con las tareas
