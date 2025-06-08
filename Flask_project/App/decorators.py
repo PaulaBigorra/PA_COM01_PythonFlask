@@ -4,8 +4,7 @@ from flask import request, jsonify #Importamos request para verificar si los dat
 
 def verificar_json(f):
     @wraps(f) #preserva el nombre y documentación original
-    #Nueva función que acepta cualquier cantidad de argumentos y parametros
-    def envoltura(*args, **kwargs): 
+    def envoltura(*args, **kwargs): #Nueva función que acepta cualquier cantidad de argumentos y parametros
         #Verifica el formato y en caso de no ser JSON devuelve el error 400
         if not request.is_json:
             return jsonify({"error": "El cuerpo debe ser JSON"}), 400 
