@@ -13,9 +13,8 @@
 ###  Tema Principal  
 Este proyecto explora **Flask basado en Programación Orientada a Objetos (POO)**, aplicando buenas prácticas para estructurar aplicaciones de manera modular y escalable.  
 
-###  Tecnologías y Conceptos Usados  
-✔ **POO** → Encapsulación y organización de clases para estructurar datos 
-
+###  Conceptos Usados  
+✔ **POO** → Encapsulación y organización de clases para estructurar datos.
 ✔ **Blueprints** → Modularización de rutas para mantener un código limpio y reutilizable.  
 ✔ **Decoradores** → Aplicación de funciones dinámicas para mejorar la reutilización y validación.  
 ✔ **Patrones de Diseño** → Implementación del patrón **Modelo-Vista-Controlador (MVC)** para separar responsabilidades.  
