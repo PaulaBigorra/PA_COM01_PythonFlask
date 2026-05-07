@@ -1,15 +1,14 @@
 # PA_COM01_Python-Flask
-- Programación Avanzada, 2do Año de Tecnicatura en Programación
-  
 📌 Proyecto Flask - Programación Orientada a Objetos  
-   🛠 Lenguajes Utilizados  
-      - Python (Flask)  
+- Programación Avanzada, 2do Año de Tecnicatura en Programación
+
+🛠 Lenguaje Utilizado - Python (Flask)  
 
 👥 Integrantes  
-- **[Barreras Mauricio]**
-- **[Bigorra Paula]**
-- **[Cañette Yanina]**
-- **[Gorosito Esteban]**  
+  - **[Barreras Mauricio]**
+  - **[Bigorra Paula]**
+  - **[Cañette Yanina]**
+  - **[Gorosito Esteban]**  
 
 ###  Tema Principal  
 Este proyecto explora **Flask basado en Programación Orientada a Objetos (POO)**, aplicando buenas prácticas para estructurar aplicaciones de manera modular y escalable.  
