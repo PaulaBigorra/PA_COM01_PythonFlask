@@ -5,7 +5,7 @@
    🛠 Lenguajes Utilizados  
       - Python (Flask)  
 
-  👥 Integrantes  
+👥 Integrantes  
 - **[Barreras Mauricio]**
 - **[Bigorra Paula]**
 - **[Cañette Yanina]**
