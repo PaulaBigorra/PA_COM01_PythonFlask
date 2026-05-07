@@ -1,8 +1,7 @@
 # PA_COM01_Python-Flask
-📌 Proyecto Flask - POO  
+📌 Proyecto Flask - Programación Orientada a Objetos  
    🛠 Lenguajes Utilizados  
-      - Python  
-      - Flask  
+      - Python (Flask)  
 
   👥 Integrantes  
 - **[Barreras Mauricio]**
